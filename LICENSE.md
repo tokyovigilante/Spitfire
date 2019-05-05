@@ -1,3 +1,5 @@
+# MIT Licence
+
 *All logos and images copyright (c) 2019 Ryan Walklin.*
 
 *All code is copyright (c) 2019 Ryan Walklin under the MIT license.*
