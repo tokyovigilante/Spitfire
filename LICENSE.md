@@ -1,8 +1,4 @@
-# MIT Licence
-
-*All logos and images copyright (c) 2019 Ryan Walklin.*
-
-*All code is copyright (c) 2019 Ryan Walklin under the MIT license.*
+*Copyright (c) 2019 Ryan Walklin, ryan@testtoast.com.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,4 +18,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+*All logos and images copyright (c) 2019 Ryan Walklin.*
